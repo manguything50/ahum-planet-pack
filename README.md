@@ -8,3 +8,6 @@ Ahum planet pack is currently not functional without the use of eve redux and sc
 Current compatabilites: distantobject, planetshine, eve, scatterer
 current incompatibilites: any system replacer
 note that while biomes are functional, the science values may or may not be balanced.
+
+EXTREMELY IMPORTANT: YOU MUST INSTALL THIS MODIFICATION:
+https://forum.kerbalspaceprogram.com/index.php?/topic/207768-112-niakos-kopernicus-utilities-smoother-heightmaps/#comment-4117435
